@@ -28,23 +28,23 @@ fieldset {
     margin: 20px;
 }
 
-fieldset#sexo {
+fieldset#iSexo {
     width: 150px;
 }
 
-fieldset#utilizador {
+fieldset#iUtilizador {
     background: url("../_imagens/icone-contato.png") no-repeat 95% 95%;
 }
 
-fieldset#endereco {
+fieldset#iEndereco {
     background: url("../_imagens/icone-endereco.png") no-repeat 95% 95%;
 }
 
-fieldset#mensagem {
+fieldset#iMensagem {
     background: url("../_imagens/icone-mensagem.png") no-repeat 95% 95%;
 }
 
-fieldset#pedido {
+fieldset#iPedido {
     background: url("../_imagens/icone-pagamento.png") no-repeat 95% 95%;
 }
 
